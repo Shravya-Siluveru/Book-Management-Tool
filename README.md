@@ -17,7 +17,6 @@ This is your book management tool.
 
 ## Installation
 ```javascript
-git clone https://github.com/phanib/react-myreads
 npm install or yarn install
 ```
 ## Starting the app
