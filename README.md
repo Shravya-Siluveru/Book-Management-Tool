@@ -17,6 +17,7 @@ This is your book management tool.
 
 ## Installation
 ```javascript
+git clone https://github.com/Shravya-Siluveru/Book-Management-Tool.git
 npm install or yarn install
 ```
 ## Starting the app
